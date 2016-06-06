@@ -2,3 +2,6 @@ Ceci est la première modification de ce fichier.
 Il sera suivi d'un premier commit.
 
 ------------------------------------------------
+
+Ceci est la seconde modification de ce fichier.
+Il sera également suivi d'un commit.
