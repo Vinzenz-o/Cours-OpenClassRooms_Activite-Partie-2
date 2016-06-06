@@ -1,0 +1,4 @@
+Ceci est la première modification de ce second fichier.
+Il sera suivi d'un commit.
+
+--------------------------------------------------------
